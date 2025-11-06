@@ -102,9 +102,9 @@ video {
   font-weight: 800;
   margin: 20px;
 }
-/* #page1 h2:hover {
+#page1 h2:hover {
   color: #95c11e;
-} */
+}
 
 #page1 p {
   font-size: 18px;
